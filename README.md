@@ -2,8 +2,8 @@
 
 Ideia geral do padrão DAO:
 
-● Para cada entidade, haverá um objeto <strong> responsável por fazer acesso a dados relacionado a esta
-entidade.</strong> Por exemplo: <br>
+● Para cada entidade, haverá um objecto <strong> responsável por fazer acesso a dados relacionado a esta
+entidade.</strong> &nbsp; Por exemplo: <br>
 &emsp;  o Cliente: ClienteDao <br>
 &emsp;  o Produto: ProdutoDao <br>
 &emsp;  o Pedido: PedidoDao <br>
