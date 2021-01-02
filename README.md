@@ -11,6 +11,8 @@ entidade.</strong> Por exemplo: <br>
 ● Cada DAO será definido por uma interface. <br>
 ● A injeção de dependência pode ser feita usando o padrão de projecto Factory <br>
 
+![UML Padrão de Projecto Factory](https://i.ibb.co/XXJwkVW/UMLReadme.png)
+
 
 
 
